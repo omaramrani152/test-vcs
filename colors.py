@@ -1,1 +1,1 @@
-test=omar2
+test omar
